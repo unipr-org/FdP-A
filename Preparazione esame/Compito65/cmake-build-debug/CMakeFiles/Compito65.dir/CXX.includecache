@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/mere/Documents/Desk/Università/parma/Programmazione A/Esercizi/Preparazione esame/Compito65/main.cpp
+iostream
+-
+iostream
+-
+

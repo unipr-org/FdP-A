@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/mere/Documents/Desk/Università/parma/Programmazione A/Esercizi/2021_10_19/Massimo comune divisore/mcd.cpp
+iostream
+-
+

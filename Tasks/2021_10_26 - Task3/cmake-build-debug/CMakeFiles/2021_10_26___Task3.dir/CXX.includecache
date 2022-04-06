@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/mere/Documents/Desk/Università/parma/Programmazione A/Esercizi/Tasks/2021_10_26 - Task3/main.cpp
+iostream
+-
+cmath
+-
+

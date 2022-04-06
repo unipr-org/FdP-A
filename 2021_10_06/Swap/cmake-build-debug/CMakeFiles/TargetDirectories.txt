@@ -1,0 +1,3 @@
+/Users/mere/Documents/Desk/Università/parma/Programmazione A/Esercizi/2021_10_06/Swap/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/mere/Documents/Desk/Università/parma/Programmazione A/Esercizi/2021_10_06/Swap/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mere/Documents/Desk/Università/parma/Programmazione A/Esercizi/2021_10_06/Swap/cmake-build-debug/CMakeFiles/Swap.dir
