@@ -1,3 +1,3 @@
-# FdP-A
-Unipr - Fondamenti di Programmazione - Parte A
-- c++
+# Fondamenti di Programmazione - Parte A
+Esercizi / esercitazioni in: 
+- C++
