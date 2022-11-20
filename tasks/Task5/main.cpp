@@ -65,21 +65,26 @@ int main() {
                     cout << "Inserisci il cognome del contatto da aggiungere: ";
                     cin.getline(e.cognome, 254);
 
-                    //bool errors = false;
                     do{
+                        char tmp[255];
                         errors = false;
                         cout << "Inserisci il numero del contatto da aggiungere (10 caratteri numerici): ";
-                        cin.getline(e.cellulare, 99);
+                        cin.getline(tmp, 254);
 
-                        if(strlen(e.cellulare) != 10)
+                        if(strlen(tmp) != 10)
                             errors = true;
 
-                        for(int i = 0; i < strlen(e.cellulare); i ++){
-                            if(e.cellulare[i] < 48 || e.cellulare[i] > 57){
+                        for(int i = 0; i < strlen(tmp); i ++){
+                            if(tmp[i] < 48 || tmp[i] > 57){
                                 errors = true;
                                 break;
                             }
                         }
+
+                        if(!errors)
+                            for(int i = 0; i < 10; i++)
+                                e.cellulare[i] = tmp[i];
+                        
                     } while(errors);
 
                     rubrica[cursor] = e;
