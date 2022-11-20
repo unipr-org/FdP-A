@@ -1,3 +1,0 @@
-/Users/mere/Documents/Desk/Università/parma/Programmazione A/Esercizi/2021_09_29/PariDispari/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/mere/Documents/Desk/Università/parma/Programmazione A/Esercizi/2021_09_29/PariDispari/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/mere/Documents/Desk/Università/parma/Programmazione A/Esercizi/2021_09_29/PariDispari/cmake-build-debug/CMakeFiles/PariDispari.dir
