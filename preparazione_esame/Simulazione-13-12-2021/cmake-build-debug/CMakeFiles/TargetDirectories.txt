@@ -1,3 +1,0 @@
-/Users/mere/Documents/Desk/Università/parma/Programmazione A/Esercizi/Preparazione esame/Simulazione-13-12-2021/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/mere/Documents/Desk/Università/parma/Programmazione A/Esercizi/Preparazione esame/Simulazione-13-12-2021/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/mere/Documents/Desk/Università/parma/Programmazione A/Esercizi/Preparazione esame/Simulazione-13-12-2021/cmake-build-debug/CMakeFiles/Simulazione_13_12_2021.dir
