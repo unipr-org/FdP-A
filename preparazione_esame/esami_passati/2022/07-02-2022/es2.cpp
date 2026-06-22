@@ -61,7 +61,7 @@ int main(){
     int index_b = 0;
     for(int i = 0; i < dim; i++)
         if(a[i] != min && a[i] != max)
-            b[dim_b++] = a[i];
+            b[index_b++] = a[i];
     // Stampo array b
     cout <<"L'array b è': ";
     for(int i = 0; i< dim_b; i++)
