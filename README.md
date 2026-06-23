@@ -4,7 +4,6 @@ In questa repository sono presenti:
  - Raccolta delle prove degli anni precedenti
  - Esercizi svolti in preparazione dell'esame
  - Tasks
-> Tutti gli appunti sono presenti qui: [_merendamattia.com/uni_](https://www.merendamattia.com/uni.html)
 
 ## Contributors
 <a href="https://github.com/unipr-org/AI/graphs/contributors">
