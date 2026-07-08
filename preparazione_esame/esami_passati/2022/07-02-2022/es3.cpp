@@ -14,7 +14,7 @@ bool isDescending(node* l){
         return true;
     node* current = l;
     while(current->next != nullptr){
-        if(current->data < current->next->data)
+        if(current->data <= current->next->data)
             return false;
         current = current->next;
     }
